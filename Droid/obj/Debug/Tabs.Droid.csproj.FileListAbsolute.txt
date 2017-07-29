@@ -1,0 +1,186 @@
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\Tabs.Droid.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.Droid.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.Droid.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\com.microsoft.tabs.apk
+C:\CustomVisionCompleted\Droid\bin\Debug\com.microsoft.tabs-Signed.apk
+C:\CustomVisionCompleted\Droid\bin\Debug\FormsViewGroup.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Newtonsoft.Json.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\FormsViewGroup.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Newtonsoft.Json.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\Tabs.Droid.csprojResolveAssemblyReference.cache
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\CustomVisionCompleted\Droid\obj\Debug\Tabs.Droid.dll
+C:\CustomVisionCompleted\Droid\obj\Debug\Tabs.Droid.pdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\bin\com.microsoft.tabs.apk
+C:\CustomVisionCompleted\Droid\obj\Debug\res\layout\tabbar.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\res\layout\toolbar.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\res\values\styles.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable\icon.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\xml\file_paths.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\R.cs.flag
+C:\CustomVisionCompleted\Droid\obj\Debug\uploadflags.txt
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable\ic_accessibility_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-hdpi\ic_accessibility_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xhdpi\ic_accessibility_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xxhdpi\ic_accessibility_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable\ic_add_a_photo_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-hdpi\ic_add_a_photo_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xhdpi\ic_add_a_photo_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xxhdpi\ic_add_a_photo_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable\ic_photo_library_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-hdpi\ic_photo_library_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xhdpi\ic_photo_library_black_24dp.png
+C:\CustomVisionCompleted\Droid\obj\Debug\res\drawable-xxhdpi\ic_photo_library_black_24dp.png
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.Droid.dll.config
+C:\CustomVisionCompleted\Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\PCLCrypto.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.BCrypt.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.Kernel32.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.NCrypt.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.Windows.Core.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Validation.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.dll.config
+C:\CustomVisionCompleted\Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\PCLCrypto.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.BCrypt.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.Kernel32.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.NCrypt.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\PInvoke.Windows.Core.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\CustomVisionCompleted\Droid\bin\Debug\Validation.xml
+C:\CustomVisionCompleted\Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.Droid.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Java.Interop.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Mono.Android.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\mscorlib.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Core.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.IO.Compression.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Numerics.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Xml.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Tabs.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Tabs.Droid.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\CustomVisionCompleted\Droid\obj\Debug\Tabs.Droid.dll.mdb
+C:\CustomVisionCompleted\Droid\bin\Debug\Tabs.Droid.dll.mdb

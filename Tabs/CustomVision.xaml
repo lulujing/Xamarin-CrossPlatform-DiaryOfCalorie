@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Tabs.CustomVision"  Title="Add" Icon="ic_add_a_photo_black_24dp.png">
+    <ScrollView>
+    <StackLayout Margin="20" Orientation="Vertical">
+        <Button Text="Take Photo and Analyze" Clicked="loadCamera" />
+        <Button Text="Save" Clicked="Save" />
+        <StackLayout >
+            <Label  Text="Name:" FontSize="Medium"></Label>
+            <Entry x:Name="TagLabel" BackgroundColor="Azure" />
+            <Label  Text="Quantity:"  FontSize="Medium"></Label>
+            <Entry x:Name="TagLabel1" BackgroundColor="Azure" />
+            <Label  Text="Calorie:"  FontSize="Medium"></Label>
+            <Entry x:Name="TagLabel2" BackgroundColor="Azure" />
+            <Label x:Name="PredictionLabel">
+            </Label>
+        </StackLayout>
+        <Image x:Name="image" Aspect="AspectFit"/>
+    </StackLayout>
+        </ScrollView>
+</ContentPage>

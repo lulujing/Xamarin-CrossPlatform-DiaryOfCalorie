@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.microsoft.tabs">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <application android:label="Tabs" android:name="md5ba9116186514050008909f78612f00bb.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <provider android:name="android.support.v4.content.FileProvider" android:authorities="com.microsoft.tabs.fileprovider" android:exported="false" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
+    </provider>
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Tabs.Droid" android:theme="@style/MyTheme" android:name="md5ba9116186514050008909f78612f00bb.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md56beaf3ca16f9b29c56822643de3b05fa.WebAuthenticatorActivity" />
+    <activity android:configChanges="orientation|screenSize" android:name="md5a3e164e78ade0c22cefea770ddd0bc49.MediaPickerActivity" />
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.microsoft.tabs.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.microsoft.tabs" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
+</manifest>

@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Tabs.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.xml
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.App.xaml.g.cs
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.TabsPage.xaml.g.cs
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.AzureTable.xaml.g.cs
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.pdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll.mdb
+C:\Users\User\Desktop\a\5. Microsoft Custom Vision Service Integration\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Newtonsoft.Json.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Platform.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Core.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.Abstractions.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Plugin.Media.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\Newtonsoft.Json.xml
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.App.xaml.g.cs
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.TabsPage.xaml.g.cs
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.AzureTable.xaml.g.cs
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.pdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll.config
+C:\CustomVisionCompleted\Tabs\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\System.Net.Http.Extensions.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\System.Net.Http.Primitives.dll
+C:\CustomVisionCompleted\Tabs\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\System.Net.Http.Extensions.xml
+C:\CustomVisionCompleted\Tabs\bin\Debug\System.Net.Http.Primitives.xml
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.csproj.App.config
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\obj\Debug\Tabs.dll.mdb
+C:\CustomVisionCompleted\Tabs\bin\Debug\Tabs.dll.mdb

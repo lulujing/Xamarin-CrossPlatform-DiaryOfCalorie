@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Tabs.AzureTable" Title="Diary" Icon="ic_photo_library_black_24dp.png">
+    <ScrollView>
+        <StackLayout>
+
+        
+        <Button Text="Show my Diary of Calorie" TextColor="White" BackgroundColor="Red" Clicked="Handle_ClickedAsync" />
+        <ListView x:Name="HotDogList" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding updatedAt, StringFormat='Data: {0:N}'}" HorizontalOptions="FillAndExpand" Margin="20,0,0,0"  />
+                            <Label Text="{Binding Tag, StringFormat='Tag: {0:N}'}" Margin="20,0,0,0" />
+                            <Label Text="{Binding CaloriePerG, StringFormat='Calorie: {0:N}'}" Margin="20,0,0,0"  />
+                            <Label Text="{Binding quantity, StringFormat='Quantity: {0:N}'}"  Margin="20,0,0,0" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    </ScrollView>
+</ContentPage>
