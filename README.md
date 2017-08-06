@@ -16,7 +16,7 @@ information of this food will automatic dispaly in the apps and users can save i
 I trained my module of food. It just includes two tags right now. but it can be update in the future.
 <img src="image/a.png"  width="1024"/>
 <h2>4. Azure </h2>
-I created eassy table for records the information of the food.
+I created eassy table for recording the information of the food.
 <img src="image/b.png"  width="1024"/>
                       
                       
